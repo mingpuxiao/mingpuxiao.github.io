@@ -1,6 +1,5 @@
 baseURL: "/"
 title: Mingpu Xiao
-theme: PaperMod
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
